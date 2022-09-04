@@ -1,0 +1,17 @@
+.hero{
+    background: linear-gradient(#2193b0, #6dd5ed);
+    height: 100vh;
+}
+
+body{
+    background: linear-gradient(#2193b0, #6dd5ed);
+    height: 100vh;
+}
+
+.div__qs{
+    padding-top: 50px;
+}
+
+.text-white{
+    margin-bottom: 80px;
+}
